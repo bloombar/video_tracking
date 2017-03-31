@@ -1,8 +1,8 @@
 /**
- * Move Eye. 
- * by Simon Greenwold.
+ * Video3DExperiment using Processing
+ * based on Processing 3D example code code by Simon Greenwold.
  * 
- * The camera lifts up (controlled by mouseY) while looking at the same point.
+ * a 3D cube with a webcam feed textured onto all sides
  */
 
 //import video lib
